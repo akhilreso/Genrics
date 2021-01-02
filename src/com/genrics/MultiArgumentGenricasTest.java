@@ -17,7 +17,7 @@ public class MultiArgumentGenricasTest {
 	public static void main(String[] args) {
 		
 		MultiArgumentGenricas<String ,Integer> obj=new MultiArgumentGenricas<>("Java" ,5);
-		obj.printType();
+				obj.printType();
 	}
 
 }
